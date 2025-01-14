@@ -50,6 +50,28 @@ To analyze and visualize global and regional trends in multidimensional poverty,
 
 ---
 
+## **Visualizations**
+
+### **Dashboard Snapshots**
+
+#### Regional Poverty Analysis and Basic Needs Access (2009-2020)
+![image](https://github.com/user-attachments/assets/82fe3c45-ccf2-4ae1-abb5-89ee5d9f49a4)
+
+
+#### Educational and Resource Deprivation Trends in East Asia and Pacific (2009-2022)
+![image](https://github.com/user-attachments/assets/6f3332a2-e93e-49fc-87c6-3f9b410648fb)
+
+
+#### Education and Necessity Deprivations Across South Asia (2010-2018)
+![image](https://github.com/user-attachments/assets/b7d5b611-4122-48f1-9dba-a498f55b83d9)
+
+
+#### Sub-Saharan Africa: Poverty Rates and Basic Needs Access (2016-2018)
+![image](https://github.com/user-attachments/assets/06b17e2a-acd9-4d7f-8c53-00ff575c50c6)
+
+
+---
+
 ## **How to Use**
 
 1. Clone this repository.
