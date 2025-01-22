@@ -26,9 +26,10 @@ To analyze and visualize global and regional trends in multidimensional poverty,
 1. **Introduction**: Overview of the Multidimensional Poverty Measure and its significance.
 2. **Raw Data**: Initial datasets with challenges such as missing values and inconsistent data types.
 3. **Data Cleaning**: Steps to clean and preprocess the data for analysis.
-4. **EDA**: Statistical summaries, visualizations, and patterns in the data.
-5. **Power BI Dashboards**: Interactive visualizations showcasing insights into regional poverty trends.
-6. **Conclusion**: Key findings and actionable recommendations.
+     -Jupyter Notebook: Includes detailed code and insights from the EDA process.
+5. **EDA**: Statistical summaries, visualizations, and patterns in the data.
+6. **Power BI Dashboards**: Interactive visualizations showcasing insights into regional poverty trends.
+7. **Conclusion**: Key findings and actionable recommendations.
 
 ---
 
